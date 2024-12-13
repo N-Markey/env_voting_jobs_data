@@ -15,4 +15,4 @@ The csv file jobs_voting_final.csv contains data on Congressional environmental 
 * **lcv_pooled_score** (numeric): member's League of Conservation Voters score for this session of Congress. Created by averaging annual LCV scores for the two years of the Congress, weighting by number of relevant votes in each year.
 * **est_jobs** (numeric): estimated number of fossil fuel extraction jobs in the member's district. Created using census County Business Patterns data on industry-specific employment by county.
 
-Thorough background on the variables and the methodology involved in creating this dataset is contained in section II of Final_Report.pdf
+Thorough background on the variables and the methodology involved in creating this dataset is contained in section II of Markey_Final_Report.pdf
